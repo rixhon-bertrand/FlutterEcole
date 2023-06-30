@@ -33,9 +33,3 @@ Dans notre cas, le restaurant veut être indépendant de toute plateforme mais v
 ## :file_folder: Les fichiers
 Pour la base de donnée, nous avons opté pour le système de Google nommé Firebase et Firestore.\
 <img src="https://user-images.githubusercontent.com/60699212/210029259-4a09d896-dc80-4cfc-9ad4-479512fad195.png" width="150" height="120">\
-Nous avons 2 types de documents qui peuvent être vu comme des tables : \
-Une collection de documents clients :\
-<img src="https://user-images.githubusercontent.com/60699212/210029264-3efd0257-9995-4ede-b2f1-6f91bf971f12.png" width="300" height="120">\
-Une collection de documents réservations :\
-<img src="https://user-images.githubusercontent.com/60699212/210029265-09b493a3-0a52-40c6-a86a-f2a578d435a8.png" width="300" height="120">\
-Les réservations sont liés au client par une relation 1-N et c'est pour ça que le numéro de téléphone du client se retrouve également dans le document de la réservation.
