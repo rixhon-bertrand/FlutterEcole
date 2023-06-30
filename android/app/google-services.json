@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891944236392",
+    "firebase_url": "https://restomag-175ef-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "restomag-175ef",
+    "storage_bucket": "restomag-175ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891944236392:android:c08c534706d184b1a012dd",
+        "android_client_info": {
+          "package_name": "hepl.gestion.resto_mag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891944236392-7girmpdff5a0qlgv673avt6d9vliomet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEC8bd_kcWQh5d7vMdULQ7SMvuc16PCXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891944236392-7girmpdff5a0qlgv673avt6d9vliomet.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891944236392-ojlt5v14q0070bca0m47pankmfsfrtjj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hepl.gestion.restoMag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
